@@ -1,11 +1,11 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Olá eu sou Denilson, no que posso lhe ajudar hoje?</h1>
 
 ###
 
 <div align="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim,aws,html,css,php,python" />
+      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,shell,vim,aws,html,css,php,python,jenkins,ubuntu,linux" />
     </a>
   </p>
 </div>
